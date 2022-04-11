@@ -1,7 +1,7 @@
 <template>
   <div class="todo-header">
     <div class="title">
-      <h2 style="text-align: center">Todo List</h2>
+      <h2 style="text-align: center; color: red">Todo List</h2>
     </div>
     <input
       type="text"
